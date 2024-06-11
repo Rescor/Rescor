@@ -1,6 +1,6 @@
 # 👋🏻 Hi there! I'm Rescor
 - 🇵🇱 I live in Łódź, Poland.
-- 💻 Mostly I write in JavaScript. Sometimes on PHP, Python or (even!) J2ME. My main stack is React, React Native, Node, Express.
+- 💻 Mostly I write in JavaScript. Sometimes in PHP, Python or (even!) J2ME. My main stack is React, React Native, Node, Express.
 - 📟 I do programming, Internet research, collect old smartphones, microcontrollers, and similar things.
 - 🖋 In Telegram I have a [personal blog](https://t.me/rwarden) and a [channel](https://t.me/runetstalking) about the Internet research.
 - 🎧 I love radio and broadcasting. I host the online radiostation [krtd.net](https://krtd.net/).
