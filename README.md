@@ -1,12 +1,12 @@
 # 👋🏻 Hi there! I'm Rescor
 - 🇵🇱 I live in Łódź, Poland.
-- 💻 Mostly I'm writing on JavaScript. Sometimes on PHP, Python or (even!) J2ME. My main stack is React, React Native, Node, Express.
+- 💻 Mostly I write in JavaScript. Sometimes on PHP, Python or (even!) J2ME. My main stack is React, React Native, Node, Express.
 - 📟 I do programming, Internet research, collect old smartphones, microcontrollers, and similar things.
 - 🖋 In Telegram I have a [personal blog](https://t.me/rwarden) and a [channel](https://t.me/runetstalking) about the Internet research.
 - 🎧 I love radio and broadcasting. I host the online radiostation [krtd.net](https://krtd.net/).
-- 🫂 I created [TLPE](https://tulpamancy.org/) – community forum for plural individuals. And I also hosting a lot of interesting and funny things.
+- 🫂 I created [TLPE](https://tulpamancy.org/) – community forum for plural individuals. And I also host a lot of interesting and funny things.
 - 🦄 I am a member of [Łódź Hackerspace](https://lodz.hackerspace.pl/).
-- 🎨 I love to travel, play saxophone, guitar and piano, and learn to draw.
+- 🎨 I love to travel, play saxophone, guitar and piano, and I learn to draw.
 - 🍕 I am a big fan of "[Worm](https://parahumans.wordpress.com/)", Playstation 3 / PS Vita and pizza. =)
 - 🦊 I have (probably) the cuttiest domain on the Internet – [aww.xyz](https://aww.xyz/). You can write me an email at [r@aww.xyz](mailto:r@aww.xyz).
 
