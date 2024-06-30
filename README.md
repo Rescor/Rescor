@@ -20,7 +20,7 @@ TLPE is a community forum for plural individuals, that has been running for over
 Boasting about 1000 members, we are building a supportive space where community members help and provide psychological support to one another.
 
 ### [KRTD](https://krtd.net/)
-KRDT is an online radio station featuring various musical genres, mostly rock and alternative.  
+KRTD is an online radio station featuring various musical genres, mostly rock and alternative.  
 Sometimes we do online radio broadcasts. Welcome!  
 The frontend is written in React. The backend operates on [AzuraCast](https://www.azuracast.com/), [LiquidSoap](https://en.wikipedia.org/wiki/Liquidsoap), and [Icecast 2](https://icecast.org/), running on Debian Linux.  
 Github: [https://github.com/Rescor/KRTD](https://github.com/Rescor/KRTD)  
